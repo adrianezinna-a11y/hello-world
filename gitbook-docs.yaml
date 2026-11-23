@@ -6,6 +6,6 @@ site:
     - type: space
       key: documentation
       title: Documentation
-      path: documentation
+      path: /documentation
       content:
         directory: .
