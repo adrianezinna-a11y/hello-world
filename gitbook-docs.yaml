@@ -8,4 +8,4 @@ site:
       title: Documentation
       path: documentation
       content:
-        directory: ./documentation
+        directory: .
